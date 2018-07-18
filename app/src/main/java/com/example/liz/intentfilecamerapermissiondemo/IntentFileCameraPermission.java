@@ -59,7 +59,7 @@ public class IntentFileCameraPermission extends AppCompatActivity {
             }
         }
 
-        //set data into recyclerview
+        //Set data into RecyclerView
         mRecyclerView = findViewById(R.id.recycler_view);
         mRecyclerViewAdapter = new RecyclerViewAdapter(mList,this);
         GridLayoutManager gridLayoutManager = new GridLayoutManager(this,SPAN_COUNT);
