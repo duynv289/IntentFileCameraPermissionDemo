@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IntentFileCameraPermissionDemo</string>
+    <string-array name="image_extension">
+        <item>png</item>
+        <item>PNG</item>
+        <item>jpg</item>
+        <item>jpeg</item>
+        <item>JPEG</item>
+        <item>bmp</item>
+        <item>gif</item>
+    </string-array>
+</resources>
